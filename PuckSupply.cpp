@@ -13,6 +13,6 @@ PuckSupply::PuckSupply(int HP)
 
 PuckSupply::~PuckSupply()
 {
-	delete[] _Puck_arr;
+	
 }
 

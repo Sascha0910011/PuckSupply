@@ -8,7 +8,7 @@ public:
 	Puck getPuck();
 	~PuckSupply();
 	friend class GameTable;
-	friend void GameRun();
+	
 
 	
 };
