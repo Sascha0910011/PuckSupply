@@ -7,7 +7,7 @@ public:
 	PuckSupply(int HP);
 	Puck getPuck();
 	~PuckSupply();
-	friend class GameTable;
+	
 	
 
 	

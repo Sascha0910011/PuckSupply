@@ -7,7 +7,7 @@ using namespace std;
 PuckSupply::PuckSupply(int HP)
 {
 	_Puck_arr = new Puck[HP];
-	_cnt = HP;
+	
 }
 
 
